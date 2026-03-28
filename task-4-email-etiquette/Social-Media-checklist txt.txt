@@ -1,0 +1,23 @@
+Social Media DO's
+
+1. Enable Multi-Factor Authentication (MFA) for all platforms to ensure you do not allow unauthorized users to gain access.
+
+2. Utilize the "Privacy Settings" to control who can view your personal contact information and location.
+
+3. Before you post anything, remember that your "Digital Footprint" is permanent and viewable by potential recruiters.
+
+4. Make sure you have strong and unique passwords for all of your social media accounts.
+
+5. Respect people's privacy by asking permission before posting pictures of them.
+
+Social Media DON'Ts
+
+1. Avoid posting pictures of your ID cards, admit cards, or boarding passes, as information leaks through QR codes.
+
+2. Avoid clicking on "Free Giveaway" or "Survey" messages from unknown accounts, as it may be a Phishing threat.
+
+3. Avoid accepting friend/follow requests from accounts that seem suspicious or have no mutual friends.
+
+4. Avoid tagging your "Live Location" on your post, as you should be out of the location for your physical safety.
+
+5. Avoid cyber-bullying or using hate speech, as it may lead to legal actions against you through IT laws.
