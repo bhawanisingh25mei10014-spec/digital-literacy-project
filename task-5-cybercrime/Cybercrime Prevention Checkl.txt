@@ -1,0 +1,18 @@
+Part B: Cybercrime Prevention Checklist (8 Essential Tips)
+As a future security expert, here are the top 8 tips for staying safe:
+
+-Never Enter PIN to Receive Money: "A UPI PIN is needed only to send money or check your balance." So, if someone asks you to "receive" money by entering your PIN, it's a 100% scam.
+
+-Verify the VPA/UPI ID: "Double-check the name of the receiver and VPA before hitting 'Pay'!" Scammers use xyz-refund-service@okaxis to sound convincing.
+
+-Enable App-Level Locks: "Use a biometric or pattern lock for your apps like Google-Pay or Paytm in addition to your mobile's lock screen."
+
+-Avoid Public Wi-Fi for Banking: "Do not use public Wi-Fi for transactions or logging in to your accounts." Use a VPN or your mobile's internet connection instead.
+
+-Identify Phishing Links: "Do not fall for the scam of clicking on a link saying your account will be blocked or your KYC has expired."
+
+-Regularly Update Software: "Keep your Android or iOS operating system and all your banking apps updated." These apps have critical security patches against many exploits!
+
+-Limit Social Media Exposure: Do not expose your phone number, birth date, or home address on LinkedIn and Instagram, as this information is often misused for identity theft.
+
+-The Golden Rule (1930): If you are a victim of any financial cyber fraud, immediately contact the National Cyber Crime Helpline Number: 1930 or report it at www.cybercrime.gov.in within the   first 2 hours of the occurrence of the fraud under the "Golden Hour" to freeze the  stolen money.
